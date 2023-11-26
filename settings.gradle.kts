@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SP6 - Time Mileage Location Tracker"
+rootProject.name = "Personal Mileage Tracker"
 include(":app")
- 

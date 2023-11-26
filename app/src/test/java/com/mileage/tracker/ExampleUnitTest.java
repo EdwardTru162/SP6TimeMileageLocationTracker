@@ -1,4 +1,4 @@
-package com.example.sp6_timemileagelocationtracker;
+package com.mileage.tracker;
 
 import org.junit.Test;
 

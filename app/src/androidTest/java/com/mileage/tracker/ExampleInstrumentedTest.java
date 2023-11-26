@@ -1,4 +1,4 @@
-package com.example.sp6_timemileagelocationtracker;
+package com.mileage.tracker;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.sp6_timemileagelocationtracker", appContext.getPackageName());
+        assertEquals("com.mileage.tracker", appContext.getPackageName());
     }
 }
